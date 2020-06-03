@@ -1,11 +1,5 @@
 <?php
-/**
- * File JsonResponse.php
- *
- * @author Tuan Duong <bacduong@gmail.com>
- * @package Laravue
- * @version 1.0
- */
+
 namespace App\Laravue;
 
 use Illuminate\Contracts\Support\Arrayable;

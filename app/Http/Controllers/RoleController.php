@@ -1,11 +1,5 @@
 <?php
-/**
- * File RoleController.php
- *
- * @author Tuan Duong <bacduong@gmail.com>
- * @package Laravue
- * @version 1.0
- */
+
 namespace App\Http\Controllers;
 
 use App\Http\Resources\PermissionResource;

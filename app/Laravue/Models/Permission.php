@@ -1,11 +1,4 @@
 <?php
-/**
- * File Permission.php
- *
- * @author Tuan Duong <bacduong@gmail.com>
- * @package Laravue
- * @version 1.0
- */
 
 namespace App\Laravue\Models;
 use App\Laravue\Acl;

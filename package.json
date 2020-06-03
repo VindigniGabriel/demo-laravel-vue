@@ -2,7 +2,7 @@
   "name": "laravue",
   "version": "0.11.0",
   "description": "A beautiful dashboard for Laravel built by VueJS",
-  "author": "Tuan Duong <bacduong@gmail.com>",
+  "author": "Gabriel Medina Vindigni <vindignigb@gmail.com>",
   "license": "MIT",
   "private": true,
   "scripts": {

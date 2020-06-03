@@ -1,11 +1,5 @@
 <?php
-/**
- * File Role.php
- *
- * @author Tuan Duong <bacduong@gmail.com>
- * @package Laravue
- * @version
- */
+
 namespace App\Laravue\Models;
 
 use App\Laravue\Acl;
