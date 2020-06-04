@@ -27,7 +27,7 @@
               {{ $t('navbar.profile') }}
             </el-dropdown-item>
           </router-link>
-          <a target="_blank" href="https://github.com/VindigniGabriel/demo-gabriel-vindigni/">
+          <a target="_blank" href="https://github.com/VindigniGabriel/demo-laravel-vue">
             <el-dropdown-item>
               {{ $t('navbar.github') }}
             </el-dropdown-item>
